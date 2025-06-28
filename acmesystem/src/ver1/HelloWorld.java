@@ -1,6 +1,7 @@
 package ver1;
 
 public class HelloWorld {
+	
 	public String Argument = "String";
 	public static void whatFor(String Argument) {
 		System.out.println(", what for?");
